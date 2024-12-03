@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d66c8ebc-7064-4478-a46a-95cca9670f89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 171,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "恐怖模式2": {
+      "ver": "1.0.4",
+      "uuid": "ef91c3ea-4e00-4c56-b773-67b401ffc5b8",
+      "rawTextureUuid": "d66c8ebc-7064-4478-a46a-95cca9670f89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 171,
+      "height": 38,
+      "rawWidth": 171,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

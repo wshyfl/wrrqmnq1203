@@ -1,0 +1,27 @@
+
+死亡.png
+size: 320,563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+死亡
+  rotate: false
+  xy: 2, 207
+  size: 316, 354
+  orig: 316, 441
+  offset: 0, 87
+  index: -1
+死亡2
+  rotate: false
+  xy: 2, 2
+  size: 290, 203
+  orig: 316, 441
+  offset: 20, 0
+  index: -1
+白
+  rotate: false
+  xy: 294, 197
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1

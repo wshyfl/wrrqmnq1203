@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a137bbb1-fa61-4a71-a57f-a195ee38fb98",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 184,
+  "height": 35,
+  "platformSettings": {},
+  "subMetas": {
+    "-午夜电视-": {
+      "ver": "1.0.4",
+      "uuid": "0de11095-47e0-4890-b7af-88af8bbcc11b",
+      "rawTextureUuid": "a137bbb1-fa61-4a71-a57f-a195ee38fb98",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 35,
+      "rawWidth": 184,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e5b29c2e-376d-4d95-8764-9eed43f21e3b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 269,
+  "height": 919,
+  "platformSettings": {},
+  "subMetas": {
+    "厨房窗户L": {
+      "ver": "1.0.4",
+      "uuid": "ba9a566b-c9a2-4506-b021-df74542a0e65",
+      "rawTextureUuid": "e5b29c2e-376d-4d95-8764-9eed43f21e3b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 263,
+      "height": 915,
+      "rawWidth": 269,
+      "rawHeight": 919,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

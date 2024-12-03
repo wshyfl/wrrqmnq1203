@@ -1,0 +1,27 @@
+
+厨房窗户R.png
+size: 269,919
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+厨房窗框R
+  rotate: false
+  xy: 2, 591
+  size: 264, 326
+  orig: 264, 326
+  offset: 0, 0
+  index: -1
+幽灵手
+  rotate: false
+  xy: 160, 196
+  size: 106, 393
+  orig: 106, 394
+  offset: 0, 0
+  index: -1
+窗户伪人
+  rotate: false
+  xy: 2, 2
+  size: 156, 587
+  orig: 156, 587
+  offset: 0, 0
+  index: -1

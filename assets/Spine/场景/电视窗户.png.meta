@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b72337e0-2d72-4a8e-b17e-1f015353aead",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 269,
+  "height": 919,
+  "platformSettings": {},
+  "subMetas": {
+    "电视窗户": {
+      "ver": "1.0.4",
+      "uuid": "c5fa23d7-6cd6-4d8b-85d1-d98b6cbbd398",
+      "rawTextureUuid": "b72337e0-2d72-4a8e-b17e-1f015353aead",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 263,
+      "height": 915,
+      "rawWidth": 269,
+      "rawHeight": 919,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

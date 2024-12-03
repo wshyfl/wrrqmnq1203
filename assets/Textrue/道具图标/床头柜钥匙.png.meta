@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "93e449b7-14b3-4943-94cd-43133faf1a39",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 76,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "床头柜钥匙": {
+      "ver": "1.0.4",
+      "uuid": "87ab3f68-3f5d-4b0b-b470-36f09df0d27b",
+      "rawTextureUuid": "93e449b7-14b3-4943-94cd-43133faf1a39",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 76,
+      "height": 44,
+      "rawWidth": 76,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

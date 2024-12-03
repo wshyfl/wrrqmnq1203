@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8e371850-ad38-4c88-b893-63452199f3f5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 464,
+  "height": 442,
+  "platformSettings": {},
+  "subMetas": {
+    "死亡结局6": {
+      "ver": "1.0.4",
+      "uuid": "934cc41f-02eb-4fb6-ba64-f60f13001623",
+      "rawTextureUuid": "8e371850-ad38-4c88-b893-63452199f3f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0.5,
+      "trimX": 5,
+      "trimY": 4,
+      "width": 455,
+      "height": 433,
+      "rawWidth": 464,
+      "rawHeight": 442,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9995d07d-7567-4518-934a-9ae9ae79182e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 159,
+  "height": 31,
+  "platformSettings": {},
+  "subMetas": {
+    "焦黑的头骨": {
+      "ver": "1.0.4",
+      "uuid": "282579f8-ac95-4b73-8113-fd86fb5df6bd",
+      "rawTextureUuid": "9995d07d-7567-4518-934a-9ae9ae79182e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 159,
+      "height": 31,
+      "rawWidth": 159,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

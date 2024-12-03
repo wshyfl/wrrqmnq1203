@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "952e3727-7adf-4523-9661-c2298fd76c35",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 485,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "请选择挑战的模式": {
+      "ver": "1.0.4",
+      "uuid": "cf85b2ff-da6a-49ba-8adf-fa11f2729662",
+      "rawTextureUuid": "952e3727-7adf-4523-9661-c2298fd76c35",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 485,
+      "height": 44,
+      "rawWidth": 485,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

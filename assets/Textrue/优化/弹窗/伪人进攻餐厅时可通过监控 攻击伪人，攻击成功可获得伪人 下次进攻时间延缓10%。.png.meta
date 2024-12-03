@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "34a167f1-3c11-438e-8b59-0b9e5356bc80",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 384,
+  "height": 112,
+  "platformSettings": {},
+  "subMetas": {
+    "伪人进攻餐厅时可通过监控 攻击伪人，攻击成功可获得伪人 下次进攻时间延缓10%。": {
+      "ver": "1.0.4",
+      "uuid": "4ef45eb1-2e6b-4c1d-8291-a9dd3fdbc121",
+      "rawTextureUuid": "34a167f1-3c11-438e-8b59-0b9e5356bc80",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 384,
+      "height": 112,
+      "rawWidth": 384,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9e2b4fb9-b0d9-4831-825f-ad8a8ad34caa",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 105,
+  "height": 1061,
+  "platformSettings": {},
+  "subMetas": {
+    "浴室伪人2": {
+      "ver": "1.0.4",
+      "uuid": "be36ae2f-972b-4a51-bf4d-1ed5ed5e5bc4",
+      "rawTextureUuid": "9e2b4fb9-b0d9-4831-825f-ad8a8ad34caa",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 101,
+      "height": 1057,
+      "rawWidth": 105,
+      "rawHeight": 1061,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

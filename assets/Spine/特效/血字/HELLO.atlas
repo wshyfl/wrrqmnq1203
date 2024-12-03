@@ -1,0 +1,13 @@
+
+HELLO.png
+size: 113,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HELLO
+  rotate: false
+  xy: 2, 2
+  size: 109, 28
+  orig: 109, 28
+  offset: 0, 0
+  index: -1

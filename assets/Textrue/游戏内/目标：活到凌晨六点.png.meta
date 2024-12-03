@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "371bd99d-a366-4a02-914b-479958134b9d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 381,
+  "height": 48,
+  "platformSettings": {},
+  "subMetas": {
+    "目标：活到凌晨六点": {
+      "ver": "1.0.4",
+      "uuid": "b03b723c-51fb-4e7f-bb19-4a6f08da02a5",
+      "rawTextureUuid": "371bd99d-a366-4a02-914b-479958134b9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 381,
+      "height": 48,
+      "rawWidth": 381,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

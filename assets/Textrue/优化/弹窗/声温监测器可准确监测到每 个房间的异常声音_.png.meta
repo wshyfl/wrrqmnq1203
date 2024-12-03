@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "40bf78a0-e6db-40fa-803c-d24c1c780e71",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 380,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "声温监测器可准确监测到每 个房间的异常声音_": {
+      "ver": "1.0.4",
+      "uuid": "903e4b6e-4909-4de7-a20e-2b5f137f3c8c",
+      "rawTextureUuid": "40bf78a0-e6db-40fa-803c-d24c1c780e71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 380,
+      "height": 72,
+      "rawWidth": 380,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6c5821dc-e498-439e-ad2e-ff9aaad38a3d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 269,
+  "height": 919,
+  "platformSettings": {},
+  "subMetas": {
+    "餐厅窗户R": {
+      "ver": "1.0.4",
+      "uuid": "823bb05c-112d-41fe-a7e7-24dc205b5b73",
+      "rawTextureUuid": "6c5821dc-e498-439e-ad2e-ff9aaad38a3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 263,
+      "height": 915,
+      "rawWidth": 269,
+      "rawHeight": 919,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

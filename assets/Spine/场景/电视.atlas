@@ -1,0 +1,41 @@
+
+电视.png
+size: 80,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+电视/图层 1
+  rotate: false
+  xy: 2, 264
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+电视/图层 2
+  rotate: false
+  xy: 2, 195
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+电视/图层 3
+  rotate: false
+  xy: 2, 126
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+电视/电视2
+  rotate: false
+  xy: 2, 64
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+电视/电视4
+  rotate: false
+  xy: 2, 2
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1

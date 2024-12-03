@@ -1,0 +1,24 @@
+info face="黑体" size=30 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=3,3,3,3 spacing=3,3 outline=0
+common lineHeight=30 base=26 scaleW=200 scaleH=200 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="yxsj_0.png"
+chars count=20
+char id=40   x=19    y=0     width=15    height=32    xoffset=3     yoffset=-1    xadvance=16    page=0  chnl=15
+char id=41   x=0     y=0     width=16    height=33    xoffset=-3    yoffset=-1    xadvance=16    page=0  chnl=15
+char id=43   x=138   y=30    width=22    height=20    xoffset=-3    yoffset=5     xadvance=16    page=0  chnl=15
+char id=45   x=25    y=65    width=22    height=8     xoffset=-3    yoffset=11    xadvance=16    page=0  chnl=15
+char id=46   x=186   y=23    width=11    height=10    xoffset=-1    yoffset=19    xadvance=16    page=0  chnl=15
+char id=47   x=37    y=0     width=22    height=29    xoffset=-3    yoffset=1     xadvance=16    page=0  chnl=15
+char id=48   x=137   y=0     width=21    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=49   x=120   y=30    width=15    height=27    xoffset=-1    yoffset=2     xadvance=16    page=0  chnl=15
+char id=50   x=161   y=0     width=21    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=51   x=0     y=36    width=21    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=52   x=62    y=0     width=22    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=53   x=24    y=35    width=21    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=54   x=87    y=0     width=22    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=55   x=48    y=32    width=21    height=27    xoffset=-2    yoffset=2     xadvance=16    page=0  chnl=15
+char id=56   x=72    y=30    width=21    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=57   x=96    y=30    width=21    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=58   x=185   y=0     width=11    height=20    xoffset=2     yoffset=9     xadvance=16    page=0  chnl=15
+char id=61   x=0     y=66    width=22    height=16    xoffset=-3    yoffset=7     xadvance=16    page=0  chnl=15
+char id=88   x=112   y=0     width=22    height=27    xoffset=-3    yoffset=2     xadvance=16    page=0  chnl=15
+char id=120  x=163   y=30    width=20    height=20    xoffset=-2    yoffset=9     xadvance=16    page=0  chnl=15

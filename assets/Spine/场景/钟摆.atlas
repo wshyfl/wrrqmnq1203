@@ -1,0 +1,13 @@
+
+钟摆.png
+size: 26,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+钟摆
+  rotate: false
+  xy: 2, 2
+  size: 22, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1

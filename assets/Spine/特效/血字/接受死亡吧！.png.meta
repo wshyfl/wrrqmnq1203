@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ddd2267c-2a19-45bb-8dad-f6ed4ec6e8a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 143,
+  "height": 49,
+  "platformSettings": {},
+  "subMetas": {
+    "接受死亡吧！": {
+      "ver": "1.0.4",
+      "uuid": "9c8d9705-0689-4e39-8a3c-2869fdaecdc3",
+      "rawTextureUuid": "ddd2267c-2a19-45bb-8dad-f6ed4ec6e8a6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 139,
+      "height": 45,
+      "rawWidth": 143,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

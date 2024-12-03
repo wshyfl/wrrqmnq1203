@@ -1,0 +1,34 @@
+
+死亡结局6.png
+size: 938,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+失败结局/失败结局6/图层 113
+  rotate: false
+  xy: 2, 2
+  size: 307, 432
+  orig: 317, 442
+  offset: 5, 5
+  index: -1
+失败结局/失败结局6/图层 158
+  rotate: false
+  xy: 548, 42
+  size: 235, 341
+  orig: 245, 351
+  offset: 5, 5
+  index: -1
+失败结局/失败结局6/图层 163
+  rotate: true
+  xy: 311, 2
+  size: 381, 235
+  orig: 391, 245
+  offset: 5, 5
+  index: -1
+失败结局/失败结局6/通风管门
+  rotate: true
+  xy: 768, 184
+  size: 252, 168
+  orig: 261, 175
+  offset: 5, 3
+  index: -1

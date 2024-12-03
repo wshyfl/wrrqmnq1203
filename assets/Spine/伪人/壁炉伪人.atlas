@@ -1,0 +1,27 @@
+
+壁炉伪人.png
+size: 290,1178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+伪人1/图层 67
+  rotate: false
+  xy: 2, 3
+  size: 286, 260
+  orig: 286, 260
+  offset: 0, 0
+  index: -1
+伪人1/图层 68
+  rotate: true
+  xy: 2, 77
+  size: 270, 251
+  orig: 270, 251
+  offset: 0, 0
+  index: -1
+伪人1/图层 69
+  rotate: false
+  xy: 2, 349
+  size: 214, 828
+  orig: 214, 914
+  offset: 0, 86
+  index: -1

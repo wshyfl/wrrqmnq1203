@@ -1,0 +1,20 @@
+
+餐厅门.png
+size: 294,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+门伪人
+  rotate: false
+  xy: 2, 2
+  size: 208, 589
+  orig: 208, 589
+  offset: 0, 0
+  index: -1
+餐厅门
+  rotate: false
+  xy: 205, 16
+  size: 86, 304
+  orig: 86, 304
+  offset: 0, 0
+  index: -1

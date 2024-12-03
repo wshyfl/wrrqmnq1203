@@ -1,0 +1,13 @@
+
+马桶盖.png
+size: 176,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+马桶盖
+  rotate: false
+  xy: 2, 2
+  size: 172, 240
+  orig: 172, 240
+  offset: 0, 0
+  index: -1

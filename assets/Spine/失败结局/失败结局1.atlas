@@ -1,0 +1,41 @@
+
+失败结局1.png
+size: 1167,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+失败结局/失败结局1/1
+  rotate: false
+  xy: 976, 690
+  size: 150, 195
+  orig: 160, 206
+  offset: 5, 5
+  index: -1
+失败结局/失败结局1/2
+  rotate: true
+  xy: 2, 221
+  size: 217, 1085
+  orig: 227, 1095
+  offset: 5, 5
+  index: -1
+失败结局/失败结局1/3
+  rotate: true
+  xy: 2, 2
+  size: 217, 1063
+  orig: 227, 1073
+  offset: 5, 5
+  index: -1
+失败结局/失败结局1/4
+  rotate: false
+  xy: 976, 440
+  size: 189, 248
+  orig: 199, 258
+  offset: 5, 5
+  index: -1
+失败结局/失败结局1/图层 157 拷贝
+  rotate: false
+  xy: 2, 440
+  size: 972, 585
+  orig: 982, 595
+  offset: 5, 5
+  index: -1

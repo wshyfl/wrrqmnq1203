@@ -1,0 +1,76 @@
+
+点击.png
+size: 404,44
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+新建文件夹/baozha_a_03
+  rotate: false
+  xy: 214, 5
+  size: 37, 37
+  orig: 44, 40
+  offset: 3, 1
+  index: -1
+新建文件夹/baozha_a_04
+  rotate: true
+  xy: 368, 4
+  size: 38, 34
+  orig: 44, 40
+  offset: 3, 3
+  index: -1
+新建文件夹/baozha_a_05
+  rotate: false
+  xy: 90, 3
+  size: 42, 39
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+新建文件夹/baozha_a_06
+  rotate: true
+  xy: 134, 2
+  size: 40, 38
+  orig: 44, 40
+  offset: 3, 1
+  index: -1
+新建文件夹/baozha_a_07
+  rotate: false
+  xy: 2, 2
+  size: 42, 40
+  orig: 44, 40
+  offset: 2, 0
+  index: -1
+新建文件夹/baozha_a_08
+  rotate: false
+  xy: 46, 2
+  size: 42, 40
+  orig: 44, 40
+  offset: 2, 0
+  index: -1
+新建文件夹/baozha_a_09
+  rotate: true
+  xy: 174, 2
+  size: 40, 38
+  orig: 44, 40
+  offset: 3, 0
+  index: -1
+新建文件夹/baozha_a_10
+  rotate: false
+  xy: 253, 5
+  size: 37, 37
+  orig: 44, 40
+  offset: 5, 1
+  index: -1
+新建文件夹/baozha_a_11
+  rotate: true
+  xy: 292, 4
+  size: 38, 36
+  orig: 44, 40
+  offset: 4, 2
+  index: -1
+新建文件夹/baozha_a_12
+  rotate: true
+  xy: 330, 4
+  size: 38, 36
+  orig: 44, 40
+  offset: 4, 2
+  index: -1

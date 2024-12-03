@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ee46a6c3-f576-407d-a114-41add55e09dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 87,
+  "height": 156,
+  "platformSettings": {},
+  "subMetas": {
+    "通风管门": {
+      "ver": "1.0.4",
+      "uuid": "6c15440b-496e-4eed-bc92-433cdc7bbba4",
+      "rawTextureUuid": "ee46a6c3-f576-407d-a114-41add55e09dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 156,
+      "rawWidth": 87,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

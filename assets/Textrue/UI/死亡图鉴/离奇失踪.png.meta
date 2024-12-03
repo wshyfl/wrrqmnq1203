@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2c8b86ef-4373-4fd0-b0be-7f617b13802a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 128,
+  "height": 31,
+  "platformSettings": {},
+  "subMetas": {
+    "离奇失踪": {
+      "ver": "1.0.4",
+      "uuid": "a9098e3e-4664-403e-b7fa-241443bfff46",
+      "rawTextureUuid": "2c8b86ef-4373-4fd0-b0be-7f617b13802a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 31,
+      "rawWidth": 128,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

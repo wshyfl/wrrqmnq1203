@@ -1,0 +1,48 @@
+
+主界面.png
+size: 348,1138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+主界面/图层 230
+  rotate: false
+  xy: 2, 737
+  size: 234, 400
+  orig: 242, 402
+  offset: 3, 0
+  index: -1
+主界面/图层 230 拷贝
+  rotate: false
+  xy: 2, 93
+  size: 207, 357
+  orig: 212, 360
+  offset: 0, 0
+  index: -1
+主界面/图层 232
+  rotate: true
+  xy: 210, 3
+  size: 446, 135
+  orig: 457, 145
+  offset: 6, 5
+  index: -1
+主界面/灯
+  rotate: false
+  xy: 2, 43
+  size: 86, 65
+  orig: 97, 75
+  offset: 6, 5
+  index: -1
+主界面/电扇
+  rotate: false
+  xy: 2, 451
+  size: 284, 284
+  orig: 294, 294
+  offset: 5, 5
+  index: -1
+主界面/电扇2
+  rotate: false
+  xy: 90, 32
+  size: 70, 66
+  orig: 80, 77
+  offset: 5, 6
+  index: -1

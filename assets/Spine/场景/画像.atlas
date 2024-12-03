@@ -1,0 +1,20 @@
+
+画像.png
+size: 201,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+画像
+  rotate: 180
+  xy: 2, 4
+  size: 196, 257
+  orig: 196, 257
+  offset: 0, 0
+  index: -1
+画像2
+  rotate: false
+  xy: 2, 262
+  size: 196, 256
+  orig: 196, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+游戏结束了！.png
+size: 156,36
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+游戏结束了！
+  rotate: false
+  xy: 2, 2
+  size: 152, 32
+  orig: 152, 32
+  offset: 0, 0
+  index: -1

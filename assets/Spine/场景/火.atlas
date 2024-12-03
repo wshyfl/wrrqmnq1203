@@ -1,0 +1,237 @@
+
+火.png
+size: 1248,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+没有火
+  rotate: false
+  xy: 2, 14
+  size: 132, 130
+  orig: 132, 130
+  offset: 0, 0
+  index: -1
+火/火_01
+  rotate: false
+  xy: 136, 72
+  size: 68, 72
+  orig: 77, 77
+  offset: 6, 1
+  index: -1
+火/火_02
+  rotate: true
+  xy: 136, 2
+  size: 68, 71
+  orig: 77, 77
+  offset: 6, 2
+  index: -1
+火/火_03
+  rotate: true
+  xy: 209, 3
+  size: 67, 71
+  orig: 77, 77
+  offset: 6, 2
+  index: -1
+火/火_04
+  rotate: false
+  xy: 349, 71
+  size: 65, 71
+  orig: 77, 77
+  offset: 6, 2
+  index: -1
+火/火_05
+  rotate: true
+  xy: 432, 4
+  size: 65, 70
+  orig: 77, 77
+  offset: 5, 2
+  index: -1
+火/火_06
+  rotate: false
+  xy: 895, 70
+  size: 61, 69
+  orig: 77, 77
+  offset: 5, 3
+  index: -1
+火/火_07
+  rotate: true
+  xy: 797, 6
+  size: 62, 69
+  orig: 77, 77
+  offset: 6, 3
+  index: -1
+火/火_08
+  rotate: true
+  xy: 727, 4
+  size: 64, 68
+  orig: 77, 77
+  offset: 5, 3
+  index: -1
+火/火_09
+  rotate: true
+  xy: 1012, 10
+  size: 58, 68
+  orig: 77, 77
+  offset: 13, 3
+  index: -1
+火/火_10
+  rotate: false
+  xy: 1077, 70
+  size: 58, 68
+  orig: 77, 77
+  offset: 12, 3
+  index: -1
+火/火_11
+  rotate: false
+  xy: 958, 70
+  size: 61, 67
+  orig: 77, 77
+  offset: 11, 3
+  index: -1
+火/火_12
+  rotate: true
+  xy: 868, 6
+  size: 62, 68
+  orig: 77, 77
+  offset: 12, 3
+  index: -1
+火/火_13
+  rotate: true
+  xy: 504, 4
+  size: 64, 70
+  orig: 77, 77
+  offset: 12, 3
+  index: -1
+火/火_14
+  rotate: false
+  xy: 567, 70
+  size: 64, 70
+  orig: 77, 77
+  offset: 11, 3
+  index: -1
+火/火_15
+  rotate: false
+  xy: 1137, 70
+  size: 56, 70
+  orig: 77, 77
+  offset: 15, 3
+  index: -1
+火/火_16
+  rotate: false
+  xy: 1195, 70
+  size: 51, 69
+  orig: 77, 77
+  offset: 16, 2
+  index: -1
+火/火_17
+  rotate: true
+  xy: 1157, 13
+  size: 55, 68
+  orig: 77, 77
+  offset: 14, 2
+  index: -1
+火/火_18
+  rotate: true
+  xy: 938, 11
+  size: 57, 72
+  orig: 77, 77
+  offset: 13, 0
+  index: -1
+火/火_19
+  rotate: false
+  xy: 834, 70
+  size: 59, 72
+  orig: 77, 77
+  offset: 12, 0
+  index: -1
+火/火_20
+  rotate: false
+  xy: 772, 70
+  size: 60, 72
+  orig: 77, 77
+  offset: 13, 0
+  index: -1
+火/火_21
+  rotate: false
+  xy: 710, 70
+  size: 60, 73
+  orig: 77, 77
+  offset: 13, 0
+  index: -1
+火/火_22
+  rotate: true
+  xy: 653, 7
+  size: 61, 72
+  orig: 77, 77
+  offset: 13, 1
+  index: -1
+火/火_23
+  rotate: true
+  xy: 416, 71
+  size: 63, 73
+  orig: 77, 77
+  offset: 11, 1
+  index: -1
+火/火_24
+  rotate: true
+  xy: 1082, 14
+  size: 54, 73
+  orig: 77, 77
+  offset: 15, 1
+  index: -1
+火/火_25
+  rotate: false
+  xy: 1021, 70
+  size: 54, 74
+  orig: 77, 77
+  offset: 14, 0
+  index: -1
+火/火_26
+  rotate: true
+  xy: 576, 9
+  size: 59, 75
+  orig: 77, 77
+  offset: 11, 0
+  index: -1
+火/火_27
+  rotate: true
+  xy: 633, 70
+  size: 59, 75
+  orig: 77, 77
+  offset: 12, 0
+  index: -1
+火/火_28
+  rotate: false
+  xy: 504, 70
+  size: 61, 74
+  orig: 77, 77
+  offset: 12, 0
+  index: -1
+火/火_29
+  rotate: true
+  xy: 282, 6
+  size: 63, 74
+  orig: 77, 77
+  offset: 10, 0
+  index: -1
+火/火_30
+  rotate: true
+  xy: 358, 5
+  size: 64, 72
+  orig: 77, 77
+  offset: 10, 2
+  index: -1
+火/火_31
+  rotate: false
+  xy: 282, 71
+  size: 65, 73
+  orig: 77, 77
+  offset: 10, 1
+  index: -1
+火/火_32
+  rotate: false
+  xy: 209, 72
+  size: 67, 72
+  orig: 77, 77
+  offset: 8, 1
+  index: -1

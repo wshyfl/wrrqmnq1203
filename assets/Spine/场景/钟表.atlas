@@ -1,0 +1,48 @@
+
+钟表.png
+size: 418,662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+钟表/bg
+  rotate: false
+  xy: 172, 12
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+钟表/图层 2
+  rotate: true
+  xy: 2, 2
+  size: 84, 150
+  orig: 94, 160
+  offset: 5, 5
+  index: -1
+钟表/图层 3
+  rotate: false
+  xy: 2, 88
+  size: 414, 572
+  orig: 425, 582
+  offset: 5, 5
+  index: -1
+钟表/图层 4
+  rotate: false
+  xy: 154, 4
+  size: 16, 16
+  orig: 26, 26
+  offset: 5, 5
+  index: -1
+钟表/图层 5
+  rotate: false
+  xy: 154, 22
+  size: 56, 64
+  orig: 66, 74
+  offset: 5, 5
+  index: -1
+钟表/图层 6
+  rotate: false
+  xy: 212, 35
+  size: 50, 51
+  orig: 60, 61
+  offset: 5, 5
+  index: -1

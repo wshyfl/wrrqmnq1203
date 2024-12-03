@@ -1,0 +1,13 @@
+
+窗外.png
+size: 115,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+鬼影
+  rotate: false
+  xy: 2, 2
+  size: 111, 360
+  orig: 112, 425
+  offset: 0, 64
+  index: -1

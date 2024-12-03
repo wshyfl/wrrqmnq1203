@@ -1,0 +1,27 @@
+
+下雨.png
+size: 409,1610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+雨
+  rotate: false
+  xy: 2, 888
+  size: 405, 720
+  orig: 405, 720
+  offset: 0, 0
+  index: -1
+雨bg
+  rotate: false
+  xy: 2, 166
+  size: 405, 720
+  orig: 405, 720
+  offset: 0, 0
+  index: -1
+雾
+  rotate: false
+  xy: 2, 2
+  size: 176, 162
+  orig: 183, 162
+  offset: 2, 0
+  index: -1

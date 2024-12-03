@@ -1,0 +1,13 @@
+
+声波.png
+size: 131,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+声波
+  rotate: false
+  xy: 2, 2
+  size: 127, 75
+  orig: 127, 76
+  offset: 0, 0
+  index: -1
